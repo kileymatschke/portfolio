@@ -32,6 +32,12 @@
     src: url("assets/fonts/kindergarten.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "HipChick";
+    src: url("assets/fonts/HipChick.ttf") format("truetype");
+}
+
+
 
 /* =========================
    RESET
@@ -53,19 +59,19 @@
 
 body {
     --page-bg: #084887;
-    --page-text: #e9f2fa;
+    --page-text: #dbe6ff;
 
-    --title-color: #e9f2fa;
-    --h2-color: #e9f2fa;
+    --title-color: #dbe6ff;
+    --h2-color: #dbe6ff;
     --h3-color: #e83f7c;
 
-    --button-color: #ff0095;
-    --button-border: #e9f2fa;
+    --button-color: #dbe6ff;
+    --button-border: #dbe6ff;
 
-    --banner-bg: #e9f2fa;
+    --banner-bg: #dbe6ff;
     --banner-text: #084887;
 
-    --back-description-color: #e9f2fa;
+    --back-description-color: #dbe6ff;
 }
 
 
@@ -78,57 +84,55 @@ body.microsoft-page {
 
     --title-color: #4e9ba2;
     --h2-color: #4e9ba2;
-    --h3-color: #cf753f;
+    --h3-color: #e19060;
 
     --button-color: #4e9ba2;
     --button-border: #4e9ba2;
 
-    --banner-bg: #4e9ba2;
+    --banner-bg: #e19060;
     --banner-text: #e9f6f4;
 
     --back-description-color: #4e9ba2;
+
+    --link-color: #e19060;
 }
 
 
 /* ARCADE PAGE */
 
 body.arcade-page {
+    --page-bg: #f6f8ee;
+    --page-text: #3f592b;
+    --title-color: #89a659;
+    --h2-color: #89a659;
+    --h3-color: #b6853e;
+    --link-color: #b6853e;
 
-    --page-bg: #fff4c7;
-    --page-text: #7d2e00;
+    --button-color: #89a659;
+    --button-border: #89a659;
+    --back-description-color: #89a659;
 
-    --title-color: #7d2e00;
-    --h2-color: #7d2e00;
-    --h3-color: #ff5c5c;
-
-    --button-color: #7d2e00;
-    --button-border: #7d2e00;
-
-    --banner-bg: #ffde59;
-    --banner-text: #7d2e00;
-
-    --back-description-color: #e9f2fa;
+    --banner-bg: #b6853e;
+    --banner-text: #f0f3e3;
 }
 
 
 /* DATA PAGE */
 
-body.data-page {
+body.jamming-page {
+    --page-bg: #f2efea;
+    --page-text: #2b631a;
+    --title-color: #2b631a;
+    --h2-color: #2b631a;
+    --h3-color: #d87a8e;
+    --link-color: #d87a8e;
 
-    --page-bg: #d7f4d2;
-    --page-text: #215732;
+    --button-color: #2b631a;
+    --button-border: #2b631a;
+    --back-description-color: #2b631a;
 
-    --title-color: #215732;
-    --h2-color: #215732;
-    --h3-color: #4e9ba2;
-
-    --button-color: #a24ea1;
-    --button-border: #a24e9e;
-
-    --banner-bg: #215732;
-    --banner-text: #d7f4d2;
-
-    --back-description-color: #e9f2fa;
+    --banner-bg: #d87a8e;
+    --banner-text: #f2efea;
 }
 
 
@@ -220,6 +224,13 @@ ol {
     margin-left: 20px;
 }
 
+a {
+    color: var(--link-color);
+}
+
+a:hover {
+    opacity: 0.7;
+}
 
 
 /* =========================
