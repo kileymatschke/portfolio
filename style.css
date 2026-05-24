@@ -117,6 +117,25 @@ body.arcade-page {
 }
 
 
+/* PICNIC ANTICS PAGE */
+
+body.picnic-page {
+    --page-bg: #e6eff4;
+    --page-text: #263640;
+    --title-color: #779fb8;
+    --h2-color: #779fb8;
+    --h3-color: #a36dbf;
+    --link-color: #a36dbf;
+
+    --button-color: #779fb8;
+    --button-border: #779fb8;
+    --back-description-color: #779fb8;
+
+    --banner-bg: #a36dbf;
+    --banner-text: #e6eff4;
+}
+
+
 /* DATA PAGE */
 
 body.jamming-page {
@@ -134,6 +153,9 @@ body.jamming-page {
     --banner-bg: #d87a8e;
     --banner-text: #f2efea;
 }
+
+
+
 
 
 /* =========================
@@ -155,7 +177,7 @@ body {
 
 .container,
 .page-width {
-    width: 70%;
+    width: 80%;
     max-width: 1200px;
     margin: 0 auto;
 }
