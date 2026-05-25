@@ -89,7 +89,7 @@ body.microsoft-page {
     --button-color: #4e9ba2;
     --button-border: #4e9ba2;
 
-    --banner-bg: #e19060;
+    --banner-bg: #4e9ba2;
     --banner-text: #e9f6f4;
 
     --back-description-color: #4e9ba2;
@@ -112,7 +112,7 @@ body.arcade-page {
     --button-border: #89a659;
     --back-description-color: #89a659;
 
-    --banner-bg: #b6853e;
+    --banner-bg: #89a659;
     --banner-text: #f0f3e3;
 }
 
@@ -122,16 +122,16 @@ body.arcade-page {
 body.picnic-page {
     --page-bg: #f1f9ff;
     --page-text: #154260;
-    --title-color: #2e96d8;
-    --h2-color: #2e96d8;
-    --h3-color: #6e9253;
-    --link-color: #6e9253;
+    --title-color: #80bde4;
+    --h2-color: #80bde4;
+    --h3-color: #ec9233;
+    --link-color: #ec9233;
 
-    --button-color: #2e96d8;
-    --button-border: #2e96d8;
-    --back-description-color: #2e96d8;
+    --button-color: #73b2da;
+    --button-border: #73b2da;
+    --back-description-color: #73b2da;
 
-    --banner-bg: #6e9253;
+    --banner-bg: #80bde4;
     --banner-text: #f1f9ff;
 }
 
@@ -150,7 +150,7 @@ body.jamming-page {
     --button-border: #2b631a;
     --back-description-color: #2b631a;
 
-    --banner-bg: #d87a8e;
+    --banner-bg: #2b631a;
     --banner-text: #f2efea;
 }
 
@@ -158,7 +158,7 @@ body.jamming-page {
 /* DATA PAGE */
 
 body.meal-page {
-    --page-bg: #f4f2fa;
+    --page-bg: #f0f0f4;
     --page-text: #423365;
     --title-color: #7455ba;
     --h2-color: #7455ba;
@@ -169,8 +169,8 @@ body.meal-page {
     --button-border: #7455ba;
     --back-description-color: #7455ba;
 
-    --banner-bg: #76aefb;
-    --banner-text: #f4f2fa;
+    --banner-bg: #7455ba;
+    --banner-text: #f0f0f4;
 }
 
 
