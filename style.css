@@ -120,16 +120,16 @@ body.picnic-page {
     /*--page-bg: #ebf4f8;*/
     --page-bg: #ffffff;
     --page-text: #154260;
-    --title-color: #70add3;
-    --h2-color: #70add3;
+    --title-color: #69a2c6;
+    --h2-color: #69a2c6;
     --h3-color: #ec9233;
     --link-color: #ec9233;
 
-    --button-color: #70add3;
-    --button-border: #70add3;
-    --back-description-color: #70add3;
+    --button-color: #69a2c6;
+    --button-border: #69a2c6;
+    --back-description-color: #69a2c6;
 
-    --banner-bg: #70add3;
+    --banner-bg: #69a2c6;
     --banner-text: #ebf4f8;
 }
 
