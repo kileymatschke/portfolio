@@ -60,116 +60,116 @@
 body {
     --page-bg: #084887;
     --page-text: #dbe6ff;
-
     --title-color: #dbe6ff;
     --h2-color: #dbe6ff;
-    --h3-color: #e83f7c;
+    --h3-color: #eaa9da;
+    --link-color: #eaa9da;
 
     --button-color: #dbe6ff;
     --button-border: #dbe6ff;
+    --back-description-color: #dbe6ff;
 
     --banner-bg: #dbe6ff;
     --banner-text: #084887;
-
-    --back-description-color: #dbe6ff;
 }
 
 
 /* MICROSOFT PAGE */
 
 body.microsoft-page {
-
-    --page-bg: #e9f6f4;
+    /*--page-bg: #f2faf9;*/
+    --page-bg: #ffffff;
     --page-text: #497381;
-
     --title-color: #4e9ba2;
     --h2-color: #4e9ba2;
     --h3-color: #e19060;
+    --link-color: #e19060;
 
     --button-color: #4e9ba2;
     --button-border: #4e9ba2;
+    --back-description-color: #4e9ba2;
 
     --banner-bg: #4e9ba2;
     --banner-text: #e9f6f4;
-
-    --back-description-color: #4e9ba2;
-
-    --link-color: #e19060;
 }
 
 
 /* ARCADE PAGE */
 
 body.arcade-page {
-    --page-bg: #f6f8ee;
+    /*--page-bg: #f9faf6;*/
+    --page-bg: #ffffff;
     --page-text: #3f592b;
     --title-color: #89a659;
     --h2-color: #89a659;
-    --h3-color: #b6853e;
-    --link-color: #b6853e;
+    --h3-color: #a57c3a;
+    --link-color: #a57c3a;
 
     --button-color: #89a659;
     --button-border: #89a659;
     --back-description-color: #89a659;
 
     --banner-bg: #89a659;
-    --banner-text: #f0f3e3;
+    --banner-text: #ffffff;
 }
 
 
 /* PICNIC ANTICS PAGE */
 
 body.picnic-page {
-    --page-bg: #f1f9ff;
+    /*--page-bg: #ebf4f8;*/
+    --page-bg: #ffffff;
     --page-text: #154260;
-    --title-color: #80bde4;
-    --h2-color: #80bde4;
+    --title-color: #70add3;
+    --h2-color: #70add3;
     --h3-color: #ec9233;
     --link-color: #ec9233;
 
-    --button-color: #73b2da;
-    --button-border: #73b2da;
-    --back-description-color: #73b2da;
+    --button-color: #70add3;
+    --button-border: #70add3;
+    --back-description-color: #70add3;
 
-    --banner-bg: #80bde4;
-    --banner-text: #f1f9ff;
+    --banner-bg: #70add3;
+    --banner-text: #ebf4f8;
 }
 
 
 /* DATA PAGE */
 
 body.jamming-page {
-    --page-bg: #f2efea;
-    --page-text: #2b631a;
-    --title-color: #2b631a;
-    --h2-color: #2b631a;
+    /*--page-bg: #fdfcf7;*/
+    --page-bg: #ffffff;
+    --page-text: #3c492b;
+    --title-color: #768f54;
+    --h2-color: #768f54;
     --h3-color: #d87a8e;
     --link-color: #d87a8e;
 
-    --button-color: #2b631a;
-    --button-border: #2b631a;
-    --back-description-color: #2b631a;
+    --button-color: #768f54;
+    --button-border: #768f54;
+    --back-description-color: #768f54;
 
-    --banner-bg: #2b631a;
-    --banner-text: #f2efea;
+    --banner-bg: #768f54;
+    --banner-text: #fdfcf7;
 }
 
 
 /* DATA PAGE */
 
 body.meal-page {
-    --page-bg: #f0f0f4;
+    /*--page-bg: #f5f5fb;*/
+    --page-bg: #ffffff;
     --page-text: #423365;
-    --title-color: #7455ba;
-    --h2-color: #7455ba;
+    --title-color: #8e73cf;
+    --h2-color: #8e73cf;
     --h3-color: #6a9ee6;
     --link-color: #6a9ee6;
 
-    --button-color: #7455ba;
-    --button-border: #7455ba;
-    --back-description-color: #7455ba;
+    --button-color: #8e73cf;
+    --button-border: #8e73cf;
+    --back-description-color: #8e73cf;
 
-    --banner-bg: #7455ba;
+    --banner-bg: #8e73cf;
     --banner-text: #f0f0f4;
 }
 
