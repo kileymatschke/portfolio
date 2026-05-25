@@ -58,19 +58,19 @@
 /* HOME PAGE */
 
 body {
-    --page-bg: #084887;
-    --page-text: #dbe6ff;
-    --title-color: #dbe6ff;
-    --h2-color: #dbe6ff;
-    --h3-color: #eaa9da;
-    --link-color: #eaa9da;
+    --page-bg: #ffffff;
+    --page-text: #084887;
+    --title-color: #084887;
+    --h2-color: #084887;
+    --h3-color: #cf68b7;
+    --link-color: #cf68b7;
 
-    --button-color: #dbe6ff;
-    --button-border: #dbe6ff;
-    --back-description-color: #dbe6ff;
+    --button-color: #084887;
+    --button-border: #084887;
+    --back-description-color: #084887;
 
-    --banner-bg: #dbe6ff;
-    --banner-text: #084887;
+    --banner-bg: #084887;
+    --banner-text: #ffffff;
 }
 
 
@@ -90,7 +90,7 @@ body.microsoft-page {
     --back-description-color: #4e9ba2;
 
     --banner-bg: #4e9ba2;
-    --banner-text: #e9f6f4;
+    --banner-text: #ffffff;
 }
 
 
@@ -130,7 +130,7 @@ body.picnic-page {
     --back-description-color: #69a2c6;
 
     --banner-bg: #69a2c6;
-    --banner-text: #ebf4f8;
+    --banner-text: #ffffff;
 }
 
 
@@ -150,7 +150,7 @@ body.jamming-page {
     --back-description-color: #768f54;
 
     --banner-bg: #768f54;
-    --banner-text: #fdfcf7;
+    --banner-text: #ffffff;
 }
 
 
@@ -160,17 +160,17 @@ body.meal-page {
     /*--page-bg: #f5f5fb;*/
     --page-bg: #ffffff;
     --page-text: #423365;
-    --title-color: #8e73cf;
-    --h2-color: #8e73cf;
+    --title-color: #8f62b4;
+    --h2-color: #8f62b4;
     --h3-color: #6a9ee6;
     --link-color: #6a9ee6;
 
-    --button-color: #8e73cf;
-    --button-border: #8e73cf;
-    --back-description-color: #8e73cf;
+    --button-color: #8f62b4;
+    --button-border: #8f62b4;
+    --back-description-color: #8f62b4;
 
-    --banner-bg: #8e73cf;
-    --banner-text: #f0f0f4;
+    --banner-bg: #8f62b4;
+    --banner-text: #ffffff;
 }
 
 
