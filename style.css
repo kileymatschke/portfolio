@@ -74,6 +74,27 @@ body {
 }
 
 
+
+/* HUMOR PAGE */
+
+body.humor-page {
+    /*--page-bg: #f2faf9;*/
+    --page-bg: #ffffff;
+    --page-text: #291c00;
+    --title-color: #e6a900;
+    --h2-color: #e6a900;
+    --h3-color: #c36666;
+    --link-color: #c36666;
+
+    --button-color: #e6a900;
+    --button-border: #e6a900;
+    --back-description-color: #e6a900;
+
+    --banner-bg: #e6a900;
+    --banner-text: #ffffff;
+}
+
+
 /* MICROSOFT PAGE */
 
 body.microsoft-page {
